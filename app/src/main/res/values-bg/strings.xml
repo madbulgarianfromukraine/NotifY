@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editButtonTxtMainActivity">Редактиране</string>
+    <string name="deleteButtonTxtMainActivity">Изхвърляне</string>
+    <string name="disableButtonTxtMainActivity">Деактивиране</string>
+    <string name="newNoteButtonTxtMainActivity">Нова записка</string>
+    <string name="newFolderButtonTxtMainActivity">Нова папка</string>
+    <string name="enableButtonTxtMainActivity">Активиране</string>
+    <string name="hintEditTxtMainActivity">Въведете текст тук...</string>
+</resources>

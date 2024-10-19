@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/about_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@color/blacky"
+    android:paddingEnd="5dp"
+    android:paddingStart="5dp"> <!-- Set background color -->
+
+    <!-- Title TextView -->
+    <TextView
+        android:id="@+id/aboutTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ABOUTActivityMainHeading"
+        android:textSize="24sp"
+        android:layout_marginLeft="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/yellowy" /> <!-- Set text color -->
+
+    <!-- Description TextView -->
+    <TextView
+        android:id="@+id/aboutDescriptionParagraph1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/AboutActivityParagraph1"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/yellowy"
+        android:layout_marginLeft="5dp"/> <!-- Set text color -->
+
+    <!-- Features Section -->
+    <TextView
+        android:id="@+id/OurVisionTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ABOUTActivityOurVisionHeading"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/yellowy" /> <!-- Set text color -->
+
+    <!-- Description TextView -->
+    <TextView
+        android:id="@+id/aboutDescriptionParagraph2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/AboutActivityParagraph2"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="5dp"
+        android:textColor="@color/yellowy" />
+
+    <!-- Footer TextView -->
+    <TextView
+        android:id="@+id/about_footer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ABOUTFooter"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="24dp"
+        android:textColor="@color/yellowy"
+        android:layout_marginLeft="75dp"
+        android:fontFamily="@font"/>
+
+    <Button
+        android:id="@+id/comeBackBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/blacky"
+        android:drawableLeft="@drawable/ic_arrow_back_ios_new_yellowy"
+        android:text="@string/back_arrow_ABOUTActivity"
+        android:textColor="@color/yellowy"
+        android:textSize="16sp"/>
+
+</LinearLayout>

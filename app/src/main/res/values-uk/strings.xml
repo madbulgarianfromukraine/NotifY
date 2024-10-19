@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editButtonTxtMainActivity">Змінити</string>
+    <string name="deleteButtonTxtMainActivity">Видалити</string>
+    <string name="disableButtonTxtMainActivity">Відключити</string>
+    <string name="newNoteButtonTxtMainActivity">Нова нотатка</string>
+    <string name="newFolderButtonTxtMainActivity">Нова папка</string>
+    <string name="enableButtonTxtMainActivity">Включити</string>
+    <string name="hintEditTxtMainActivity">Введіть ваш текст...</string>
+    <string name="ABOUTActivityMainHeading">Про наш додаток</string>
+</resources>

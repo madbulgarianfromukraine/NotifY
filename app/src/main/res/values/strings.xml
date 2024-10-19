@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">NotifY</string>
+    <string name="editButtonTxtMainActivity">Edit</string>
+    <string name="deleteButtonTxtMainActivity">Delete</string>
+    <string name="disableButtonTxtMainActivity">Disable</string>
+    <string name="newNoteButtonTxtMainActivity">New Note</string>
+    <string name="newFolderButtonTxtMainActivity">New Folder</string>
+    <string name="enableButtonTxtMainActivity">Enable</string>
+    <string name="hintEditTxtMainActivity">Enter your text here...</string>
+    <!-- Strings for the ABOUTActivity -->
+    <string name="ABOUTActivityMainHeading" translatable="false">About Our App</string>
+    <string name="AboutActivityParagraph1" translatable="false">Welcome to Notify! \n NotifY is designed for taking the notes in the most convenient way possible. Our mission is to provide an intuitive and powerful platform that helps you achieve your goals with ease.\nWe focus on delivering a seamless user experience with a clean and modern design, ensuring that the app is both functional and enjoyable to use.</string>
+    <string name="ABOUTActivityOurVisionHeading" translatable="false">Our Vision</string>
+    <string name="AboutActivityParagraph2" translatable="false">At NotifY, we believe in the power of simplicity and effectiveness. Our vision is to help you stay organized.\nWe are constantly evolving, listening to user feedback, and improving our features to meet your needs. Your experience matters to us!</string>
+    <string name="ABOUTFooter" translatable="false">Thank you for using our app!</string>
+    <string name="back_arrow_ABOUTActivity" translatable="false">To the main page</string>
+</resources>
